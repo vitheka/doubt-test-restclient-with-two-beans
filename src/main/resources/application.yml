@@ -1,0 +1,7 @@
+brasil-api:
+  base-url: 'https://brasilapi.com.br'
+  path: '/api/cep/v2/{cep}'
+
+viacep-api:
+  base-url: 'https://viacep.com.br'
+  path: '/ws/88804576/json/'
